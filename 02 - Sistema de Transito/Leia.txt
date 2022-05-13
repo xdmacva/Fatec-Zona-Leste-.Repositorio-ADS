@@ -1,0 +1,18 @@
+Pasta contendo o projeto desenvolvido a fins de Estudo: 
+	Executavel - Jar
+	
+		Contem o projeto já compilado e pronto para rodar.
+		* É necessario que tenha em maquina o aplicativo java JDK instalado. Caso contrario o aplicativo não ira funcionar. *
+	
+	Prj-Sistema_de_Transito
+		
+		Código aberto, disponibilizado para estudo com intuito de agregar conhecimento.
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Passo a passo de como abrir no NETBEANS:
+
+Com o Netbeans aberto, vá até "Arquivo" no canto superior esquerdo			|	 <---
+Em Arquivo, procurar pela opção "Abrir Projeto..."
+Ira abrir um Pop up, você deve procurar pela pasta do projeto "Prj-Sistema_de_Transito"
+Após selecionado o projeto, clique em "Abrir Projeto"
